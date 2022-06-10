@@ -79,7 +79,7 @@ setup(
     ],
     extras_require={
         "dev": [
-            "cookiecutter (>= 1.5, < 1.6)",
+            "cookiecutter (>= 1.5, < 2.2)",
             "coverage (~= 4.4)",
             "pytest (~= 3.4)",
             "pytest-cov (~= 2.5)",
